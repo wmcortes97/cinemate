@@ -1,3 +1,7 @@
+# Summary
+
+This app gets input data from user in order to formulate relevant recommendations
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
